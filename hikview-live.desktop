@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=DVR Live
+GenericName=CCTV live view
+Comment=Live view of the Hikvision DVR cameras; click a camera to open it
+Exec=@HIKVIEW@ gui
+Icon=camera-video
+Terminal=false
+Categories=AudioVideo;Video;Security;
+Keywords=cctv;camera;dvr;hikvision;
+StartupWMClass=hikview-live
